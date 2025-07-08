@@ -1,4 +1,4 @@
-<!-- 🌀 Sorting Algorithm Visualizer (Python + Pygame)
+ 🌀 Sorting Algorithm Visualizer (Python + Pygame)
 This is a Sorting Visualizer project built with Python using the Pygame library. It visually demonstrates how various sorting algorithms work step by step. The goal is to help learners understand how sorting algorithms operate internally using real-time animations.
 
 🚀 Features
@@ -87,4 +87,4 @@ This project is licensed under the MIT License.
 
 ✨ Author
 Shashank Chourasia
-Feel free to connect with me on LinkedIn or check out more of my work on GitHub. -->
+Feel free to connect with me on LinkedIn or check out more of my work on GitHub. 
